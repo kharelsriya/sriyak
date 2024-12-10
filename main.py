@@ -127,6 +127,8 @@ t.end_fill()
 
 enter = input("Press Enter to Start")
 t.clear()
+t5.clear()
+t3.clear()
 
 #2nd page
 screen.bgcolor('hot pink')
