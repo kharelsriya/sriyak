@@ -33,6 +33,16 @@ t.pendown()
 t.write("Sriya Kharel", font=("Satisfy", 18, "bold"), align="center")
 
 
+turtle.addshape("animal.gif")
+t5.shape("animal.gif")
+t5.goto(150,150)
+j = t5.stamp()
+
+turtle.addshape("beach.gif")
+t5.shape("beach.gif")
+t5.goto(-150,-150)
+k = t5.stamp()
+
 #circle
 t.penup()
 t.goto(150,-100)
